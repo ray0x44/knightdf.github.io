@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://www.irayd.com/sitemap.xml
+Sitemap: https://www.irayd.com/sitemap.xml

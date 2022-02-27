@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.irayd.com/posts/</loc>
+    <loc>https://www.irayd.com/docs/</loc>
+    <lastmod>2022-02-27T13:16:04+08:00</lastmod>
+  </url><url>
+    <loc>https://www.irayd.com/</loc>
+    <lastmod>2022-02-27T13:16:04+08:00</lastmod>
+  </url><url>
+    <loc>https://www.irayd.com/posts/</loc>
     <lastmod>2022-02-21T12:59:44+08:00</lastmod>
   </url><url>
-    <loc>http://www.irayd.com/posts/test/</loc>
+    <loc>https://www.irayd.com/posts/test/</loc>
     <lastmod>2022-02-21T12:59:44+08:00</lastmod>
   </url><url>
-    <loc>http://www.irayd.com/</loc>
-    <lastmod>2022-02-21T12:59:44+08:00</lastmod>
+    <loc>https://www.irayd.com/archives/</loc>
   </url><url>
-    <loc>http://www.irayd.com/archives/</loc>
+    <loc>https://www.irayd.com/categories/</loc>
   </url><url>
-    <loc>http://www.irayd.com/categories/</loc>
+    <loc>https://www.irayd.com/search/</loc>
   </url><url>
-    <loc>http://www.irayd.com/search/</loc>
+    <loc>https://www.irayd.com/series/</loc>
   </url><url>
-    <loc>http://www.irayd.com/series/</loc>
-  </url><url>
-    <loc>http://www.irayd.com/tags/</loc>
+    <loc>https://www.irayd.com/tags/</loc>
   </url>
 </urlset>
